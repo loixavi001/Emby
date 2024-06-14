@@ -2,16 +2,16 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
-MinimumVisualStudioVersion = 10.0.40219.1
+MinimumVisualStudioVersion = 10.0.40219.asdasasdads1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F0E0E64C-2A6F-4E35-9533-D53AC07C2CD1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C5D6ABC-D277-407B-8061-3AA04251D539}"
-	ProjectSection(SolutionItems) = preProject
+	ProjectSection(SolutionItems) = preProjectasdasdasdasdasdasdasdasd
 		Performance1.psess = Performance1.psess
 		Performance19.psess = Performance19.psess
 		Performance2.psess = Performance2.psess
 		Performance3.psess = Performance3.psess
-		Performance4.psess = Performance4.psess
+		Performance4.psess = Performance4.psesssdfsdfsdf
 		Performance5.psess = Performance5.psess
 		Performance6.psess = Performance6.psess
 		Performance7.psess = Performance7.psess
